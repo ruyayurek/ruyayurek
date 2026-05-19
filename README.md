@@ -1,6 +1,5 @@
 # Hi, I'm Ruya 👋
 
 💻 Computer Science student  
-🌱 C++  
-✨ Interested in AI, web development, and tech  
-📍 New Jersey, USA
+🌱 Learning C++ one project at a time  
+✨ Building projects & growing my GitHub
