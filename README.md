@@ -1,4 +1,6 @@
-👋 Hi, I’m @ruyayurek
-👀 I’m interested in ... JS
-🌱 I’m currently learning ... JS
+# Hi, I'm Safak 👋
 
+💻 Computer Science student  
+🌱 C++  
+✨ Interested in AI, web development, and tech  
+📍 New Jersey, USA
