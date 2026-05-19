@@ -1,4 +1,4 @@
-# Hi, I'm Safak 👋
+# Hi, I'm Ruya 👋
 
 💻 Computer Science student  
 🌱 C++  
